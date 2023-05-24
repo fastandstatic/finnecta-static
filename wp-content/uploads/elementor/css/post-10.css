@@ -15,4 +15,9 @@ div#test2 div.elementor-widget-wrap:hover p {
 div#test3 div.elementor-widget-wrap:hover h2,
 div#test3 div.elementor-widget-wrap:hover p {
         color: #fff !important;
+}
+
+div#slider-fineccta .swiper-slide-inner img {
+	filter: grayscale(100%) !important;
+	opacity: .5;
 }/* End custom CSS */
