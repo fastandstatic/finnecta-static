@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://finnecta.co/</loc>
-		<lastmod>2023-05-16T14:41:15+00:00</lastmod>
+		<lastmod>2023-05-24T19:19:53+00:00</lastmod>
 		<image:image>
 			<image:loc>https://finnecta.co/wp-content/uploads/2023/02/decline_stage_16-Convertido.png</image:loc>
 		</image:image>
@@ -20,6 +20,9 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://finnecta.co/wp-content/uploads/2023/02/Group-498.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://finnecta.co/wp-content/uploads/2023/02/logo-finnecta-color-00.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://finnecta.co/wp-content/uploads/2023/02/group6.png</image:loc>
